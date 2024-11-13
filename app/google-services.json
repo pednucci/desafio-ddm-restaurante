@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297598081490",
+    "project_id": "project-fb-kotlin",
+    "storage_bucket": "project-fb-kotlin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297598081490:android:f6340a9da8d3174ddad00b",
+        "android_client_info": {
+          "package_name": "br.unisanta.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiw8jaqqvadeZ-kRP__JLVD0xhseaajuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
